@@ -1,0 +1,8 @@
+{
+    "happy": "images/feelings/happy.png",
+    "sad": "images/feelings/sad.png", 
+    "angry": "images/feelings/angry.png",
+    "hungry": "images/feelings/hungry.png",
+    "thirsty": "images/feelings/thirsty.png",
+    "scared": "images/feelings/scared.png"
+}
